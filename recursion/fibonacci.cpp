@@ -1,3 +1,4 @@
+//정수 n이 주어질 때, n번째 피보나치 수를 재귀함수로 구해라
 #include <stdio.h>
 
 int f(int x){

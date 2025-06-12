@@ -1,3 +1,4 @@
+//정수 n이 주어질때 n!을 재귀함수로 구하는 프로그램을 작성
 #include <stdio.h>
 
 void conversion(int x){

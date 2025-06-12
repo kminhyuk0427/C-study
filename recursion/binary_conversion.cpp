@@ -1,4 +1,4 @@
-//정수 n이 주어질때 n!을 재귀함수로 구하는 프로그램을 작성
+//10진수 정수 n이 주어졌을 때 이를 재귀함수로 2진수로 변환 출력
 #include <stdio.h>
 
 void conversion(int x){
